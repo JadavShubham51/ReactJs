@@ -1,0 +1,26 @@
+Q-2 => What is JavaScript Output method? 
+A-2 => JavaScript Output defines the ways to display the output of a given code. The output can be displayed by using four different ways which are listed below:
+	1. innerHTML
+	2. document.write()
+	3. Console.log()
+	4. window.alert()
+	5. window.prompt()
+
+Q-3 => How to used JavaScript Output method? 
+A-3 =>
+	A-> innerHTML: It is used to access an element. It defines the HTML content.
+	B-> document.write(): It is used for testing purpose. 
+	C-> Console.log(): It is used for debugging purposes.
+	D-> window.alert(): It displays the content using an alert box. 
+	E-> window.prompt() :- it Allows to take input from user  
+
+Q-4 =>  How to used JavaScript Events to do all examples? 
+A-4 => onchange() :- An HTML element has been changed
+
+	onclick() :- The user clicks an HTML element
+	EX:- <button onclick="alert('Hello')">Click me.</button>
+
+	onmouseover() :- The user moves the mouse over an HTML element
+	onmouseout() :- The user moves the mouse away from an HTML element
+	onkeydown() :- The user pushes a keyboard key
+	onload() :- The browser has finished loading the page
